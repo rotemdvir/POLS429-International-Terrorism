@@ -39,4 +39,28 @@ Readings:
 Readings:  
   - Marc Stageman, "The Stagnation in Terrorism Research", *Terrorism and Political Violence, Vol. 26*, No. 4 (2014), pp. 565-580.
 
+- Lecture 6 (01.27.2020): Analyzing Terrorism - Strategic Approach ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_6.pdf)).
+- Lecture 7 (01.29.2020): Analyzing Terrorism - Strategic Approach v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_7.pdf)).
+
+Reading:
+*The Politics of Terror*, Chapter 2.
+
+- Lecture 8 (01.27.2020): Analyzing Terrorism - Organizational Approaches ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_8.pdf)).
+- Lecture 9 (01.31.2020): Analyzing Terrorism - Organizational Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_9.pdf)).
+
+Reading:
+*The Politics of Terror*, Chapter 3.
+
+- Lecture 10 (02.05.2020): Analyzing Terrorism - Psychological Approaches ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_10.pdf)).
+- Lecture 11 (02.07.2020): Analyzing Terrorism - Psychological Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_11.pdf)).
+
+Reading:
+*The Politics of Terror*, Chapter 4.
+
+- Lecture 12 (02.10.2020): Analyzing Terrorism - Ideological Approaches ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_12.pdf)).
+- Lecture 13 (02.12.2020): Analyzing Terrorism - Ideological Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_13.pdf)).
+
+Reading:
+*The Politics of Terror*, Chapter 5.
+
 
