@@ -16,15 +16,13 @@ This is an upper-level course in International Relations (IR). The course offers
 ## Course Material
 
 ### Week 1 
-- Lecture 1 (01.13.2020): Introduction
-- Lecture 2 (01.15.2020): The concept of Terrorism and issues of definition.  
+- Lecture 1 (01.13.2020): Introduction ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_1.pdf)).
+- Lecture 2 (01.15.2020): The concept of Terrorism and issues of definition ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_2.pdf))
 
 Reading:
 *The Politics of Terror*, Chapter 1.
 
-Slides:
-
-- Lecture 3 (01.17.2020): Defining Terrorism.
+- Lecture 3 (01.17.2020): Defining Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_3.pdf)).
 
 Reading:  
   - Connor Huff and Joshua D. Kertzer "How the Public Defines Terrorism?". *American Journal of Political Science, Vol. 62*, No. 1 (2018), pp. 55-71.
