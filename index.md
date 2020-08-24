@@ -26,6 +26,17 @@ Reading:
 
 Reading:  
   - Connor Huff and Joshua D. Kertzer "How the Public Defines Terrorism?". *American Journal of Political Science, Vol. 62*, No. 1 (2018), pp. 55-71.
-  - Assaf Moghadam, Ronit Berger, and Polina Beliakova. "Say Terrorist, Think Insurgent: Labeling and Analyzing Contemporary Terrorist Actors". *Perspectives on Terrorism, Vol. 8*, No. 5 (2014), pp. 1-14.
+  - Assaf Moghadam, Ronit Berger, and Polina Beliakova. "Say Terrorist, Think Insurgent: Labeling and Analyzing Contemporary Terrorist Actors". *Perspectives on Terrorism, Vol. 8*, No. 5 (2014), pp. 1-14.  
+  
+- Lecture 4 (01.22.2020): The Analytical Study of Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_4.pdf)).
+
+Readings:  
+  - Todd Sandler, "The Analytical Study of Terrorism: Taking Stock". *Journal of Peace Research, Vol. 51*, No. 2 (2014), pp. 257-271.
+  - Martha Crenshaw, "The Causes of Terrorism", *Comparative Politics, Vol. 13*, No. 4 (1981), pp. 379-399.
+
+- Lecture 5 (01.24.2020): The Analytical Study of Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_5.pdf)).
+
+Readings:  
+  - Marc Stageman, "The Stagnation in Terrorism Research", *Terrorism and Political Violence, Vol. 26*, No. 4 (2014), pp. 565-580.
 
 
