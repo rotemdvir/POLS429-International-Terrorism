@@ -115,7 +115,6 @@ Readings:
 ### Week 11
 - Lecture 26 (03.30.2020): State Sponsorship of Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_26.pdf)).
 - Lecture 27 (04.01.2020): Terrorism Financing ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_27.pdf)).
-- Lecture (04.03.2020): Terrorism, Social Media and Counter-terrorism (Media Movie).
 
 Readings:  
 *The Politics of Terror*, Chapter 11.  
