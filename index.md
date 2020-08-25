@@ -96,5 +96,55 @@ Reading:
   - Anna Getmansky and Thomas Zeitzoff, "Terrorism and Voting: The Effect of Rocket Threat on Voting in Israeli Elections", *American Political Science Review, Vol. 108*, no. 3 (2014), pp. 588-604.
   
 ### Week 9
+- Spring Break
 
+### Week 10
+- Lecture 23 (03.23.2020): Terrorism - Social and Psychological Impact([Lecture Slides](LectureSlides/429_Terrorism_Lecture_23.pdf)).
+- Lecture 24 (03.25.2020): Terrorism - Social and Psychological Impact v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_24.pdf)).
+- Lecture 25 (03.27.2020): AQ, ISIS and Jihadi Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_25.pdf)).
+
+Readings:  
+
+  - Leonie Huddy, Stanley Feldman, Charles Taber and Gallya Lahav, "Threat, Anxeity, and Support of Antiterrorism Policies", *American Journal of Political Science, Vol. 49*, No. 3 (2005), pp. 593-608.
+  - Leonie Huddy, Stanley Feldman, Theresa Capelos and Colin Provost,"The Consequences of Terrorism: Disentangling the Effects of Personal and National Threat", *Political Psychology, Vol. 23*, No. 3 (2002), pp. 485-509.
+  - Darren W. Davis and Brian D. Silver, "Civil Liberties vs. Security: Public Opinion in the Context of the Terrorist Attacks on America", *American Journal of Political Science, Vol. 48*, No. 1 (2004), pp. 28-46.
+  - Blake Garcia and Nehemia Geva, "Security Versus Liberty in the Context of Counterterrorism: An Experimental Approach", *Terrorism and Political Violence, Vol. 28*, No. 1, pp. 30-48. 
+  - Barak Mendelsohn, "The Future of Al-Qaeda: Lessons from the Muslim Brotherhood", *Survival, Vol. 60*, No. 2 (2018), pp. 151-178.
+  - Colin P. Clarke and Assaf Moghadam, "Mapping Today’s Jihadi Landscape and Threat". *Orbis, Vol. 62*, No. 3, (2018) pp. 347-371.
+  
+### Week 11
+- Lecture 26 (03.30.2020): State Sponsorship of Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_26.pdf)).
+- Lecture 27 (04.01.2020): Terrorism Financing ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_27.pdf)).
+- Lecture (04.03.2020): Terrorism, Social Media and Counter-terrorism (Media Movie).
+
+Readings:  
+*The Politics of Terror*, Chapter 11.  
+
+  - Michael Freeman and Moyara Ruehsen, "Terrorism Financing Methods: An Overview", *Perspectives On Terrorism, Vol. 7*, No. 4 (2013), pp. 5-26.
+
+### Week 12
+- Lecture 28 (04.06.2020): Counter Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_28.pdf)).
+- Lecture 29 (04.08.2020): Political Aspects of Counter Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_29.pdf)).
+- Lecture 30 (04.10.2020): Political Aspects of Counter Terrorism v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_30.pdf)).
+
+Readings:  
+*The Politics of Terror*, Chapter 13.  
+*The Politics of Terror*, Chapter 14.
+
+### Week 13
+- Lecture 31 (04.13.2020): New-age Terrorism: Cyber ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_31.pdf)).
+- Lecture 32 (04.15.2020): New-age Terrorism: WMD ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_32.pdf)).
+- Lecture 33 (04.17.2020): New-age Terrorism: Lone-Wolf ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_33.pdf)).
+
+Readings:  
+
+  - Lee Jarvis, Stuart Macdonald and Lella Nouri, "The Cyberterrorism Threat: Findings from a Survey of Researchers", *Terrorism and Political Violence, Vol. 37*, No. 1 (2014), pp. 68-90.
+  - Victor H. Asal, Gary A. Ackerman and R. Karl Rethemeyer, "Connections Can Be Toxic: Terrorist Organizational Factors and the Pursuit of CRBN Weapons", *Studies in Conflict & Terrorism, Vol. 35*, No. 3 (2012), pp. 229-254.
+  - Paul Gill, John Horgan and Paige Deckert, "Bombing Alone: Tracing the Motivations and Antecedent Behaviors of Lone-Actor Terrorists", *Journal of Forensic Sciences, Vol. 59*, No. 2 (2014), pp. 425-435.
+  
+### Week 14
+- Lecture 34 (04.20.2020): How Terrorism Ends? ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_34.pdf)).
+
+Readings:  
+*The Politics of Terror*, Chapter 15. 
 
