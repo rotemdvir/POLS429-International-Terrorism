@@ -42,34 +42,34 @@ Readings:
 
 ### Week 3 
 - Lecture 6 (01.27.2020): Analyzing Terrorism - Strategic Approach ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_6.pdf)).
-- Lecture 7 (01.29.2020): Analyzing Terrorism - Strategic Approach v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_7.pdf)).
-- Lecture 8 (01.31.2020): Analyzing Terrorism - Organizational Approaches ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_8.pdf)).
+- Lecture 7 (01.29.2020): Analyzing Terrorism - Strategic Approach v.2. ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_7.pdf)).
+- Lecture 8 (01.31.2020): Analyzing Terrorism - Organizational Approaches ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_8.pdf)).
 
 Reading:  
 *The Politics of Terror*, Chapter 2.  
 *The Politics of Terror*, Chapter 3.
 
 ### Week 4
-- Lecture 9 (02.03.2020): Analyzing Terrorism - Organizational Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_9.pdf)).
-- Lecture 10 (02.05.2020): Analyzing Terrorism - Psychological Approaches ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_10.pdf)).
-- Lecture 11 (02.07.2020): Analyzing Terrorism - Psychological Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_11.pdf)).
+- Lecture 9 (02.03.2020): Analyzing Terrorism - Organizational Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_9.pdf)).
+- Lecture 10 (02.05.2020): Analyzing Terrorism - Psychological Approaches ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_10.pdf)).
+- Lecture 11 (02.07.2020): Analyzing Terrorism - Psychological Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_11.pdf)).
 
 Reading:  
 *The Politics of Terror*, Chapter 3.  
 *The Politics of Terror*, Chapter 4.
 
 ### Week 5
-- Lecture 12 (02.10.2020): Analyzing Terrorism - Ideological Approaches ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_12.pdf)).
-- Lecture 13 (02.12.2020): Analyzing Terrorism - Ideological Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_13.pdf)).
-- Lecture 14 (02.14.2020): Analyzing Terrorism - Structural Approaches ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_14.pdf)).
+- Lecture 12 (02.10.2020): Analyzing Terrorism - Ideological Approaches ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_12.pdf)).
+- Lecture 13 (02.12.2020): Analyzing Terrorism - Ideological Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_13.pdf)).
+- Lecture 14 (02.14.2020): Analyzing Terrorism - Structural Approaches ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_14.pdf)).
 
 Reading:  
 *The Politics of Terror*, Chapter 5.  
 *The Politics of Terror*, Chapter 6.
 
 ### Week 6
-- Lecture 15 (02.17.2020): Analyzing Terrorism - Structural Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_15.pdf)).
-- Lecture 16 (02.19.2020): Analyzing Terrorism - Critical Approaches ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_16.pdf)).
+- Lecture 15 (02.17.2020): Analyzing Terrorism - Structural Approaches v.2. ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_15.pdf)).
+- Lecture 16 (02.19.2020): Analyzing Terrorism - Critical Approaches ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_16.pdf)).
 - Lecture 17 (02.21.2020): Analyzing Terrorism - Summary ([Terrorism Movie Link](https://www.pbs.org/wgbh/frontline/film/terror-in-europe/)).
 
 Reading:  
@@ -77,17 +77,17 @@ Reading:
 *The Politics of Terror*, Chapter 7.
 
 ### Week 7
-- Lecture 18 (02.26.2020): Target Selection  ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_18.pdf)).
-- Lecture 19 (02.28.2020): Suicide Terrorism -  ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_19.pdf)).
+- Lecture 18 (02.26.2020): Target Selection  ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_18.pdf)).
+- Lecture 19 (02.28.2020): Suicide Terrorism -  ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_19.pdf)).
 
 Reading:  
 *The Politics of Terror*, Chapter 8.  
 *The Politics of Terror*, Chapter 9.
 
 ### Week 8
-- Lecture 20 (03.02.2020): Suicide Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_20.pdf)).
-- Lecture 21 (03.04.2020): Terrorism - Political Impact ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_21.pdf)).
-- Lecture 22 (03.06.2020): Terrorism - Political Impact v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_22.pdf)).
+- Lecture 20 (03.02.2020): Suicide Terrorism ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_20.pdf)).
+- Lecture 21 (03.04.2020): Terrorism - Political Impact ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_21.pdf)).
+- Lecture 22 (03.06.2020): Terrorism - Political Impact v.2. ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_22.pdf)).
 
 Reading:  
 *The Politics of Terror*, Chapter 9.  
@@ -99,9 +99,9 @@ Reading:
 - Spring Break
 
 ### Week 10
-- Lecture 23 (03.23.2020): Terrorism - Social and Psychological Impact([Lecture Slides](LectureSlides/429_Terrorism_Lecture_23.pdf)); ([Lecture Video](https://youtu.be/Rh0IUgmbGwQ)).
-- Lecture 24 (03.25.2020): Terrorism - Social and Psychological Impact v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_24.pdf)); ([Lecture Video](https://youtu.be/VsNfHnwBCbI)).
-- Lecture 25 (03.27.2020): AQ, ISIS and Jihadi Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_25.pdf)); ([Lecture Video](https://youtu.be/QpDyVksKpD8)).
+- Lecture 23 (03.23.2020): Terrorism - Social and Psychological Impact([Lecture Slides](LectureSlides/429_Terrorism__Lecture_23.pdf)); ([Lecture Video](https://youtu.be/Rh0IUgmbGwQ)).
+- Lecture 24 (03.25.2020): Terrorism - Social and Psychological Impact v.2. ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_24.pdf)); ([Lecture Video](https://youtu.be/VsNfHnwBCbI)).
+- Lecture 25 (03.27.2020): AQ, ISIS and Jihadi Terrorism ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_25.pdf)); ([Lecture Video](https://youtu.be/QpDyVksKpD8)).
 
 Readings:  
 
@@ -113,8 +113,8 @@ Readings:
   - Colin P. Clarke and Assaf Moghadam, "Mapping Today’s Jihadi Landscape and Threat". *Orbis, Vol. 62*, No. 3, (2018) pp. 347-371.
   
 ### Week 11
-- Lecture 26 (03.30.2020): State Sponsorship of Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_26.pdf)); ([Lecture Video](https://youtu.be/-oQJ3dfzp6c)).
-- Lecture 27 (04.01.2020): Terrorism Financing ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_27.pdf)); ([Lecture Video](https://youtu.be/ah-lU6s1pAQ)).
+- Lecture 26 (03.30.2020): State Sponsorship of Terrorism ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_26.pdf)); ([Lecture Video](https://youtu.be/-oQJ3dfzp6c)).
+- Lecture 27 (04.01.2020): Terrorism Financing ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_27.pdf)); ([Lecture Video](https://youtu.be/ah-lU6s1pAQ)).
 
 Readings:  
 *The Politics of Terror*, Chapter 11.  
@@ -122,18 +122,18 @@ Readings:
   - Michael Freeman and Moyara Ruehsen, "Terrorism Financing Methods: An Overview", *Perspectives On Terrorism, Vol. 7*, No. 4 (2013), pp. 5-26.
 
 ### Week 12
-- Lecture 28 (04.06.2020): Counter Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_28.pdf)); ([Lecture Video](https://youtu.be/xTKRf_07vDo)).
-- Lecture 29 (04.08.2020): Counter Terrorism v.2. ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_29.pdf)); ([Lecture Video](https://youtu.be/VLmlrkWKvtk)).
-- Lecture 30 (04.10.2020): Political Aspects of Counter Terrorism ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_30.pdf)); ([Lecture Video](https://youtu.be/gLMqFg9ZpeA)).
+- Lecture 28 (04.06.2020): Counter Terrorism ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_28.pdf)); ([Lecture Video](https://youtu.be/xTKRf_07vDo)).
+- Lecture 29 (04.08.2020): Counter Terrorism v.2. ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_29.pdf)); ([Lecture Video](https://youtu.be/VLmlrkWKvtk)).
+- Lecture 30 (04.10.2020): Political Aspects of Counter Terrorism ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_30.pdf)); ([Lecture Video](https://youtu.be/gLMqFg9ZpeA)).
 
 Readings:  
 *The Politics of Terror*, Chapter 13.  
 *The Politics of Terror*, Chapter 14.
 
 ### Week 13
-- Lecture 31 (04.13.2020): New-age Terrorism: Cyber ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_31.pdf)); ([Lecture Video](https://youtu.be/PEcnEImCZKg)).
-- Lecture 32 (04.15.2020): New-age Terrorism: WMD ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_32.pdf)); ([Lecture Video](https://youtu.be/MWCsyR_5ZyU)).
-- Lecture 33 (04.17.2020): New-age Terrorism: Lone-Wolf ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_33.pdf)); ([Lecture Video](https://youtu.be/FKxgAVHDdSk)).
+- Lecture 31 (04.13.2020): New-age Terrorism: Cyber ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_31.pdf)); ([Lecture Video](https://youtu.be/PEcnEImCZKg)).
+- Lecture 32 (04.15.2020): New-age Terrorism: WMD ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_32.pdf)); ([Lecture Video](https://youtu.be/MWCsyR_5ZyU)).
+- Lecture 33 (04.17.2020): New-age Terrorism: Lone-Wolf ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_33.pdf)); ([Lecture Video](https://youtu.be/FKxgAVHDdSk)).
 
 Readings:  
 
@@ -142,7 +142,7 @@ Readings:
   - Paul Gill, John Horgan and Paige Deckert, "Bombing Alone: Tracing the Motivations and Antecedent Behaviors of Lone-Actor Terrorists", *Journal of Forensic Sciences, Vol. 59*, No. 2 (2014), pp. 425-435.
   
 ### Week 14
-- Lecture 34 (04.20.2020): How Terrorism Ends? ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_34.pdf)); ([Lecture Video](https://youtu.be/1hoVjd_qPMc)).
+- Lecture 34 (04.20.2020): How Terrorism Ends? ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_34.pdf)); ([Lecture Video](https://youtu.be/1hoVjd_qPMc)).
 
 Readings:  
 *The Politics of Terror*, Chapter 15. 
