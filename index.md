@@ -131,7 +131,7 @@ Readings:
 *The Politics of Terror*, Chapter 14.
 
 ### Week 13
-- Lecture 31 (04.13.2020): New-age Terrorism: Cyber ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_31.pdf)); ([Lecture Video](https://youtu.be/PEcnEImCZKg)).
+- Lecture 31 (04.13.2020): New-age Terrorism: Cyber ([Lecture Slides](LectureSlides/429_Terrorism_Lecture_31.pdf)); ([Lecture Video](https://youtu.be/PEcnEImCZKg)).
 - Lecture 32 (04.15.2020): New-age Terrorism: WMD ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_32.pdf)); ([Lecture Video](https://youtu.be/MWCsyR_5ZyU)).
 - Lecture 33 (04.17.2020): New-age Terrorism: Lone-Wolf ([Lecture Slides](LectureSlides/429_Terrorism__Lecture_33.pdf)); ([Lecture Video](https://youtu.be/FKxgAVHDdSk)).
 
